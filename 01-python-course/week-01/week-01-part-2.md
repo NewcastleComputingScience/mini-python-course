@@ -21,13 +21,13 @@ prompt on Anaconda's home tab.
 
 ## Reading list
 
-- [ ] *A Beginner Guide to Python 3 Programming* by John Hunt - Chapters 1, 3-7
+- [x] *A Beginner Guide to Python 3 Programming* by John Hunt - Chapters 1, 3-7
 
-| Theme                       | Book Chapter                                                           | Sections                |
-| --------------------------- | ---------------------------------------------------------------------- | ----------------------- |
-| What is Python?             | [1]((https://ncl.instructure.com/courses/44969/modules/items/2533501)) | All                     |
-| Your first python program   | [3](https://ncl.instructure.com/courses/44969/modules/items/2533332)   | All                     |
-| Strings                     | [4](https://ncl.instructure.com/courses/44969/modules/items/2533502)   | All except 4.8          |
-| Numbers, booleans and None  | [5](https://ncl.instructure.com/courses/44969/modules/items/2533503)   | Skip 5.5, 5.7.5 and 5.8 |
-| Flow control: if statements | [6](https://ncl.instructure.com/courses/44969/modules/items/2533504)   | All                     |
-| Flow control: for loops     | [7](https://ncl.instructure.com/courses/44969/modules/items/2533505)   | 7.1 - 7.4, 7.7          |
+| Theme                       | Book Chapter                                                         | Sections                |
+| --------------------------- | -------------------------------------------------------------------- | ----------------------- |
+| What is Python?             | [1](https://ncl.instructure.com/courses/44969/modules/items/2533501) | All                     |
+| Your first python program   | [3](https://ncl.instructure.com/courses/44969/modules/items/2533332) | All                     |
+| Strings                     | [4](https://ncl.instructure.com/courses/44969/modules/items/2533502) | All except 4.8          |
+| Numbers, booleans and None  | [5](https://ncl.instructure.com/courses/44969/modules/items/2533503) | Skip 5.5, 5.7.5 and 5.8 |
+| Flow control: if statements | [6](https://ncl.instructure.com/courses/44969/modules/items/2533504) | All                     |
+| Flow control: for loops     | [7](https://ncl.instructure.com/courses/44969/modules/items/2533505) | 7.1 - 7.4, 7.7          |
