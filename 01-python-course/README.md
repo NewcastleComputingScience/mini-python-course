@@ -19,7 +19,7 @@ for numerical computing and Pandas for manipulation and analysis of tabular data
 This course is structured for self-learning, with new material being made available at the start of
 each week. The coursework material is a compilation of content from different resources, primarily
 textbooks. You are expected to work through the material at your own pace and complete the proposed
-self-assessment exercises. Note, however, that these exercises **are not marked**.
+practice/self-assessment exercises. Note, however, that these exercises **are not marked**.
 
 
 ### Resources
