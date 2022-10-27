@@ -11,26 +11,28 @@
 Welcome to part 1 of this session. Our goal is to setup Python so that we can get started with
 Python coding.
 
-Environment setup has traditionally been a major pain-point for Python beginners. Thankfully,
-nowadays there are tools that make setting up much easier, and allow you to start writing code with
-just a few clicks, regardless of which Operating System you are using. One of such tools,
-particularly popular among data scientists, is [Anaconda](https://www.anaconda.com/) - an
-open-source [Python distribution]((https://wiki.python.org/moin/PythonDistributions)) platform.
+Environment setup has traditionally been a major pain-point for Python beginners. Nowadays there are
+tools that make setting up much easier, and allow you to start writing code with just a few clicks,
+regardless of which Operating System and hardware you are using. One such tool,
+[Anaconda](https://www.anaconda.com/), is particularly popular among data scientists.
 
-Besides providing the Python executable itself, Anaconda also includes
+Anaconda is an open-source [Python distribution]((https://wiki.python.org/moin/PythonDistributions))
+platform. Besides providing the Python executable itself, Anaconda also includes
 [Conda](https://conda.io/en/latest/) - an open-source source package manager and environment manager
 for python projects. Conda makes it much easier to build and manage Python projects for scientific
 research. For users less accustomed to the command-line, Anaconda also provides a graphical user
 interface for conda, named [Anaconda
-Navigator](https://docs.anaconda.com/navigator/getting-started/). We will be primarily using
-Anaconda Navigator throughout this course (though using conda through the console is fine too).
+Navigator](https://docs.anaconda.com/navigator/getting-started/). We will primarily use Anaconda
+Navigator throughout this course (though using conda via the console is fine too).
 
 In this section you will:
 
 1. Install Anaconda (if using you're using your own computer)
 2. Open Anaconda Navigator
 3. Import our Anaconda environment
-4. Load the environment using IPython
+4. Load the environment
+    1. Non-interactively (terminal + text editor)
+    2. Interactively (using IPython)
 
 ## Install Anaconda
 
@@ -67,18 +69,32 @@ Once the environment has been successfully imported, it will be listed alongside
 
 ![Anaconda Navigator 'Environments' page](images/anaconda-01.png)
 
-## Load the environment using IPython shell
+## Load the environment
 
-Next, you will load the environment using IPython shell. IPython stands for Interactive Python and
-allows you to write Python code in a more user and beginner-friendly way. IPython can be executed in
-two different ways: through a console application (aka terminal, shell) or Jupyter notebooks
-(introduced next week).
+Throughout this course, you will run Python in two distinct ways:
 
-:book: **Recommended reading**: a very useful resource to learn more about IPython (throughout this
-course and beyond) is [Chapter
-0](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) of
-the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-by Jake VanderPlas.
+1. Non-interactively (terminal + text editor)
+2. Interactively (IPython console or Jupyter notebooks)
+
+We will now show you how to run Python in each of these ways. You will have the opportunity to learn
+how Python works and read more about the different ways to run Python in Part 2 of this weekly
+course.
+
+### Non-interactively: terminal + text editor
+
+The workflow is 
+
+
+
+### Interactively: Using IPython shell
+
+The other way to run Python is interactively using IPython. In interactive mode 
+
+IPython can be executed in two different ways: through a console application (aka terminal, shell)
+or Jupyter notebooks (introduced next week).
+
+will load the environment using IPython shell. IPython stands for Interactive Python and
+allows you to write Python code in a more user and beginner-friendly way. 
 
 Load your `csc8641-prep`  anaconda environment on IPython shell, using one of two approaches:
 
@@ -88,7 +104,7 @@ Load your `csc8641-prep`  anaconda environment on IPython shell, using one of tw
   sophisticated IPython console, with additional features. Even though we will not be using its more
   advanced features, I recommend this approach as it will (otherwise, the default console application will vary from system to system).
 
-![Fresh QtConsole prompt.](images/anaconda-01.png)
+![Fresh QtConsole prompt.](images/qtconsole-01.png)
 
 Once you've done this, write your first two Python statements, as shown below:
 
@@ -100,14 +116,17 @@ print("Hello world!")
 1 + 2
 ```
 
-![Your first two python statements.](images/anaconda-02.png)
+![Your first two python statements.](images/qtconsole-02.png)
 
 Can you describe what is happening?
 
 ---
 
-IPython resources:
+Additional reading:
 
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+- **Recommended**: a very useful resource to learn more about IPython (throughout this course and
+beyond) is [Chapter
+0](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) of
+the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 by Jake VanderPlas.
 - [IPython website](https://ipython.org/)
