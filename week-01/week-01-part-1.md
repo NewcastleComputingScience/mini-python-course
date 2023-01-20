@@ -60,9 +60,9 @@ Learn more about anaconda [here](https://docs.anaconda.com/anaconda/user-guide/g
 After you've got accustomed to Anaconda Navigator, you will import an existing Anaconda environment
 containing all the Python packages that will be used throughout this course. The environment is
 specified as a yaml file
-[here](https://github.com/NewcastleComputingScience/csc8641/blob/main/01-python-course/my-python.yaml)
+[here](https://github.com/NewcastleComputingScience/csc8641/blob/main/01-python-course/my-python.yml)
 (you can copy the
-[contents](https://raw.githubusercontent.com/NewcastleComputingScience/csc8641/main/01-python-course/my-python.yaml)
+[contents](https://raw.githubusercontent.com/NewcastleComputingScience/csc8641/main/01-python-course/my-python.yml)
 of this file onto a new file in your computer). Use the `Import` feature of Anaconda Navigator
 Environments to import this environment. You may name the environment however you wish, though I
 will hereafter refer to it as `my-python` so I recommend you naming it this way.
