@@ -22,4 +22,3 @@ to you in the book.
 | Collections, Tuples and Lists   | [31](https://ncl.instructure.com/courses/44969/files/6272926?module_item_id=2555306) |
 | Sets                            | [32](https://ncl.instructure.com/courses/44969/files/6272927?module_item_id=2555307) |
 | Dictionaries                    | [33](https://ncl.instructure.com/courses/44969/files/6272928?module_item_id=2555308) |
-
