@@ -1,8 +1,9 @@
 # Week 2 - Jupyter notebooks
 
-Last week you were introduced to Anaconda and Python. You wrote Python code interactively and
-non-interactively, and were introduced . This week you begin using the most popular way of writing
-Python code interactively among scientists and academics: Jupyter Notebooks.
+Last week you were introduced to Anaconda and Python. You wrote and executed Python code
+interactively, using the IPython shell, and non-interactively using a text editor (to write your
+python program) and the terminal (to execute it). This week you begin using the most popular way of
+writing Python code interactively among scientists and academics: Jupyter Notebooks.
 
 There are two main goals in this section:
 
