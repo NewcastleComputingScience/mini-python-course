@@ -12,6 +12,7 @@ Reading list:
   - Copies and views: https://numpy.org/doc/stable/user/basics.copies.html
   - Universal functions: https://numpy.org/doc/stable/user/basics.ufuncs.html
 
+- Extra: slides from cornell cs course: https://www.cs.cornell.edu/courses/cs4670/2016sp/lectures/lec06_numpy.pdf
 - Extra: introduction to numpy by Jake VanderPlas: https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html
 
 Again, it is important to write code as you read and learn about Numpy. For this section, I
